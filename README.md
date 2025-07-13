@@ -19,7 +19,7 @@ This project simulates end-to-end e-commerce retail operations — from syntheti
 - **Python** – data simulation and processing (`pandas`, `numpy`)
 - **SQLite** – embedded database for querying
 - **SQL** – business logic queries (aggregation, filtering)
-- *(Optional add-on: Power BI or Excel for dashboard)*
+
 
 ---
 
@@ -87,7 +87,8 @@ You can explore or modify the queries in retail.ipynb or use DB Browser for SQLi
 
 🧠 Operational Readiness – Practice for SQL interviews and dashboards.
 📷 Sample Output 
-https://github.com/student-kajal/retail-sales-inventory-sql-python/blob/main/image.png
+## 📷 Sample Output
+![Dashboard Preview](https://github.com/student-kajal/retail-sales-inventory-sql-python/blob/main/image.png)
 
 👩‍💻 Author
 ## Kajal
