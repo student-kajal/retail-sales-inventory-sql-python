@@ -87,6 +87,7 @@ You can explore or modify the queries in retail.ipynb or use DB Browser for SQLi
 
 🧠 Operational Readiness – Practice for SQL interviews and dashboards.
 📷 Sample Output 
+https://github.com/student-kajal/retail-sales-inventory-sql-python/blob/main/image.png
 
 👩‍💻 Author
 ## Kajal
